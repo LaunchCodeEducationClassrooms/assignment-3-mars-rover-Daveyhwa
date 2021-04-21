@@ -8,5 +8,5 @@ class Command {
    }
  
  }
- 
+ // an object containing a type and value to be passed to message
  module.exports = Command;
